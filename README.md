@@ -1,2 +1,2 @@
-# Bright-TV-
+# Bright-TV
 Bright_TV
